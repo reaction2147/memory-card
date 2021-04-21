@@ -1,0 +1,31 @@
+
+  
+  /* !important used to override semantic-ui-react CSS styling */
+
+body {
+    background-color: #0457a0 !important;
+  }
+  
+  .cards-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 25px 5px;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .how-to-play-wrapper {
+    text-align: center;
+  }
+  
+  .how-to-play-button {
+    background-color: #fff56c;
+    border: 1px solid #fff56c;
+    border-radius: 10px;
+    font-family: "Londrina Solid", cursive;
+    font-size: 1.75rem;
+    letter-spacing: 2px;
+    padding: 0.75rem 1rem;
+    margin-bottom: 2rem;
+    cursor: pointer;
+  }
