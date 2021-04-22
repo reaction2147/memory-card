@@ -1,0 +1,38 @@
+footer {
+    margin: 2rem 0 1rem 0;
+  }
+  
+  footer > .creator {
+    color: #fff;
+    font-family: "Londrina Solid", cursive;
+    font-size: 1.75rem;
+    letter-spacing: 2px;
+    text-align: center;
+    height: 32px;
+    margin-bottom: 1rem;
+  }
+  
+  footer a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  footer a:hover {
+    color: #000;
+  }
+  
+  footer .github-logo {
+    width: 28px;
+    height: auto;
+    margin: auto;
+    vertical-align: text-top;
+    display: inline-block;
+  }
+  
+  footer > .copyright {
+    color: #fff;
+    font-family: "Londrina Solid", cursive;
+    font-size: 1.55rem;
+    letter-spacing: 2px;
+    text-align: center;
+  }

@@ -29,3 +29,27 @@ body {
     margin-bottom: 2rem;
     cursor: pointer;
   }
+.gameover {
+  font-size: 100px;
+  color: white;
+  text-align: center;
+  margin: 20px;
+}
+
+.scoreboard {
+    color: white;
+    margin-bottom: 50px;
+    margin-left: 25px;
+    margin-top: 50px;
+}
+.reset-btn {
+    margin: 0;
+    position: absolute;
+    top: 30%;
+    left: 47%;
+    padding: 10px;
+    background-color: white;
+   
+    
+    
+}
